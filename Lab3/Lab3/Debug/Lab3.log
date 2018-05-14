@@ -1,0 +1,20 @@
+﻿  Source.cpp
+c:\users\pol\desktop\rasterlabb3\lab3\lab3\source.cpp(90): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\pol\desktop\rasterlabb3\lab3\lab3\source.cpp(91): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\pol\desktop\rasterlabb3\lab3\lab3\source.cpp(142): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\pol\desktop\rasterlabb3\lab3\lab3\source.cpp(143): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\pol\desktop\rasterlabb3\lab3\lab3\source.cpp(162): warning C4018: '<': signed/unsigned mismatch
+c:\users\pol\desktop\rasterlabb3\lab3\lab3\source.cpp(210): warning C4018: '<': signed/unsigned mismatch
+c:\users\pol\desktop\rasterlabb3\lab3\lab3\source.cpp(224): warning C4018: '<': signed/unsigned mismatch
+c:\users\pol\desktop\rasterlabb3\lab3\lab3\source.cpp(259): warning C4018: '<': signed/unsigned mismatch
+c:\users\pol\desktop\rasterlabb3\lab3\lab3\source.cpp(337): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\pol\desktop\rasterlabb3\lab3\lab3\source.cpp(353): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\pol\desktop\rasterlabb3\lab3\lab3\source.cpp(356): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\pol\desktop\rasterlabb3\lab3\lab3\source.cpp(359): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\pol\desktop\rasterlabb3\lab3\lab3\source.cpp(362): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\pol\desktop\rasterlabb3\lab3\lab3\source.cpp(365): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\pol\desktop\rasterlabb3\lab3\lab3\source.cpp(368): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\pol\desktop\rasterlabb3\lab3\lab3\source.cpp(371): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\pol\desktop\rasterlabb3\lab3\lab3\source.cpp(374): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\pol\desktop\rasterlabb3\lab3\lab3\source.cpp(393): warning C4018: '<': signed/unsigned mismatch
+  Lab3.vcxproj -> C:\Users\Pol\Desktop\Rasterlabb3\Lab3\Debug\Lab3.exe
